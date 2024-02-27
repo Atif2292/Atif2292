@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Atif</h1>
 
 
- <img align = "right" alt="Coding" width = "100"  src="https://komarev.com/ghpvc/?username=atif2292&label=Profile%20views&color=0e75b6&style=flat" alt="atif2292" /> 
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
