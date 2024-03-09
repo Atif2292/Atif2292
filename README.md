@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Atif2292/Atif2292/blob/main/White%20Blue%20Professional%20Website%20Developer%20LinkedIn%20Banner.png)](http://Atif2292.io)
+[![MasterHead](https://github.com/Atif2292/Atif2292/blob/main/White%20Blue%20Professional%20Website%20Developer%20LinkedIn%20Banner.png)](https://github.com/Atif2292)
 
 <h1 align="center">Hi 👋, I'm Mohd Atif</h1>
 
