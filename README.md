@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Web Application, Java, SpringBoot,REST API's, React.Js etc**
 
-- 📫 How to reach me **sadiquekhan08200@gmail.com**
+- 📫 How to reach me **mohdatif2291@gmail.com**
 
 - ⚡ Fun fact **Enjoy Your Teen phase**
 
