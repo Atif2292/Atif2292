@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAF-_56Pj-Q/DLkv7Of1ii-l4OTEcFiiSg/watch?utm_content=DAF-_56Pj-Q&utm_campaign=designshare&utm_medium=link&utm_source=editor)](http://Atif2292.io)
+[![MasterHead](https://github.com/Atif2292/Atif2292/blob/main/White%20Blue%20Professional%20Website%20Developer%20LinkedIn%20Banner.png)](http://Atif2292.io)
 
 <h1 align="center">Hi 👋, I'm Mohd Atif</h1>
 
